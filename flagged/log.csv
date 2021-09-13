@@ -1,0 +1,2 @@
+Age,Sex - Male = 1 | Female = 0,ChestPain,Resting Blood Pressure,Cholesterol,Fasting Blood Sugar,Rest Ecg,Max Heart RateAch,Excersise Induced Angina,St Depression,St Slope,Num Major Vessels,Thalassemia,Output
+20,0,7.3,138,332,0,0,100,0,0,0,0,0,"{""Perishes"": 0.705979984692706, ""Survives"": 0.2940200153072946}"
